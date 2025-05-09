@@ -6,7 +6,7 @@
 
 **Delatoris Signatori** é uma ferramenta em Go que detecta e remove marcadores invisíveis, watermarking estatístico e fingerprinting inseridos por sistemas de IA generativa em textos.
 
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/delatoris-signatori?style=social)
+![GitHub stars](https://img.shields.io/github/stars/had-nu/Delatoris-Signatori?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Go Version](https://img.shields.io/badge/go-%3E%3D%201.16-blue)
 
