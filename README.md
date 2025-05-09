@@ -23,10 +23,10 @@
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/delatoris-signatori.git
+git clone https://github.com/had-nu/Delatoris-Signatori.git
 
 # Entrar no diretório
-cd delatoris-signatori
+cd Delatoris-Signatori
 
 # Compilar
 go build -o delatoris main.go
